@@ -1,0 +1,2 @@
+# GameSdk
+GameSdk wiki
